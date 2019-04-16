@@ -5,3 +5,7 @@ Add test script.
 dump_include.sh xxx.dts
 print include dtsi.
 
+2.getpid.sh
+
+getpid.sh 
+print current id
